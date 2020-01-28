@@ -1,0 +1,23 @@
+What is Mini Jeopardy? 
+The category is Code Challenge—for our take home code challenge, we'd like you to help us choose questions for a miniature game of Jeopardy. Instead of the classic board, we'll limit ourselves to playing a game with just 5 questions. 
+This is a very open-ended challenge and we'd like you to showcase your skill set. You can create a small web app or a command line version. The only requirement is that your code be something that we can run locally. No need to host your work anywhere. 
+Outline: 
+
+1. Display the question and point value from 5 valid clues of the category “science” that aired in the year 1996 from this Jeopardy API (http://www.jservice.io/) 
+
+2. The clues should be sorted from lowest point value to highest point value. 
+
+3. Make sure to handle any possible errors or issues with the clues. 
+
+Things to note: 
+• Some questions don't have point values. Those are Final Jeopardy! questions and should not be displayed. 
+• The API is not available over HTTPS. 
+• Please include automated tests for your work. 
+• You may choose the language/framework/tools that you feel will best show off your skills. 
+That's it! We're keeping it small and simple. Please spend no more than 3 hours on this code challenge. 
+What we're looking for: 
+We will evaluate your approach and code style. That means we'll be looking for well factored, readable code. We'll also be looking at your workflow, such as your commit messages and readme instructions for running the code and if you leave your code in a state that the next person could quickly build upon. Finally, we'll be evaluating on completing the task as outlined in these instructions. 
+We are serious about limiting yourself to 3 hours! If you’ve spent three hours on this and there are things where you think, “I could just add this one last thing...”, please include those in a list somewhere in your documentation as potential next steps to implement. 
+We ask that you submit your code challenge within 1 week. We take flexibility and work/life balance very seriously—so if you are busy this week or need additional time, just let us know and we will work with you to find a timeline that works for you. 
+When you are ready, please just email us a link to a repo on Github or another provider where we can take a look. You can also send us a zip file. 
+Please do not hesitate to reach out with any questions—we are happy to help! Just email us at tech@seattleagainstslavery.org 
