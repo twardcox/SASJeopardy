@@ -45,7 +45,6 @@ const useStyle = makeStyles((theme) =>({
     padding: '0px',
     '& .MuiTypography-h2': {
       lineHeight: '1.6',
-      // fontFamily: 'fantasy',
       fontSize: '1em'
     }
   },
@@ -147,10 +146,6 @@ const App = () => {
     
   }, []);
   
-  console.log('clues: ', clues);
-  
-  
-
   return (
     <Box className={classes.paper} component='div'>
 
